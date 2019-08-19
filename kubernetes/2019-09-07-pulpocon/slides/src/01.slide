@@ -1,0 +1,21 @@
+Deployando una App Symfony en Kubernetes
+Pulpo Con 2019
+Tags: foo, bar, baz
+
+Jose Corral
+Director de innovación, BySidecar
+http://www.github.com/jcleira
+@jcleira
+
+* Docker
+
+.image ./assets/img/seagulls.gif
+
+* How Docker works compared to VM
+
+.image ./assets/img/docker.png _ 980
+
+* Docker Hub
+
+
+.iframe https://hub.docker.com 550 980
